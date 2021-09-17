@@ -13,7 +13,7 @@
 
 <br>
 
-- __Our Aim:__ To create a platform that where squirrelkind and their supporters can go for a selection of films, to pass those long nights. 
+- __Our Aim:__ To create a  [platform](https://nutflix.netlify.app/) that where squirrelkind and their supporters can go for a selection of films, to pass those long nights. 
 <br>
 
 - __Our Methods:__ Building on our work in previous tasks and projects we implemented CSS Grid, CSS Table styling and the stars of the show: Our unique *Nuttify* and *Squirrelfy* functions! Finally __GET__ and __POST__ requests allow users to interact with our __API__ and an extensive external API.
