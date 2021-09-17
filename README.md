@@ -9,7 +9,7 @@
 ## 
 
 
-> Squirelles and Gentlesquirrels, we present to you a new platform aimed at under represented squirrels withing the film industry!  
+> Squirelles and Gentlesquirrels, we present to you a new [platform](https://nutflix.netlify.app/) aimed at under represented squirrels withing the film industry!  
 
 <br>
 
